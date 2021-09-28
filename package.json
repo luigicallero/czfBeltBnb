@@ -1,0 +1,28 @@
+{
+  "name": "czfBeltBnb",
+  "version": "1.0.0",
+  "description": "Developing a Smart Contract for my friends at Chinese Zodiac (https://app.czodiac.com)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigicallero/czfBeltBnb.git"
+  },
+  "keywords": [],
+  "author": "IT Mandalorians",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigicallero/czfBeltBnb/issues"
+  },
+  "homepage": "https://github.com/luigicallero/czfBeltBnb#readme"
+}
